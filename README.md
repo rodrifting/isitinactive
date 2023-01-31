@@ -1,4 +1,4 @@
 # isitinactive
-php and ajax timing out sessions<br />
+php and ajax being used to timeout sessions<br />
 
-javascript can be added to footer.
+the javascript can be added to a footer, for example.
